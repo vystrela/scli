@@ -1,0 +1,2 @@
+# scli
+Curses soundcloud player
